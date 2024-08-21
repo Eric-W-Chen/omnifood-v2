@@ -23,7 +23,7 @@ Google Maps integration for displaying the company location.
 
 ## Live Demo
 
-Check out the live demo of the Omnifood landing page [here](https://your-live-demo-link.com).
+Check out the live demo of the Omnifood landing page [here](https://eric-omnifood-v2.netlify.app/).
 
 ## Installation
 
