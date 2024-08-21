@@ -55,9 +55,9 @@ Once you have the project running, you can navigate through the landing page, in
 
 If you want to make changes or further develop the project, you can use the following steps:
 
-**1.** Start a live server (e.g., with VSCode’s Live Server extension) to see your changes in real-time.
-**2.** Modify the HTML, CSS, or JavaScript files as needed.
-**3.** Refresh the browser to see your updates.
+**1.** Start a live server (e.g., with VSCode’s Live Server extension) to see your changes in real-time. <br>
+**2.** Modify the HTML, CSS, or JavaScript files as needed. <br>
+**3.** Refresh the browser to see your updates. <br>
 
 ## Technologies Used
 
